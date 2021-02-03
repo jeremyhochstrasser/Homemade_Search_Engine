@@ -1,0 +1,251 @@
+
+
+//Author JEREMY HOCHSTRASSER 
+//WORKS CITED
+//REFERANCE AND MAIN TEMPLATE
+//https://www.guru99.com/java-swing-gui.html
+
+//
+
+
+import javax.swing.*;
+
+<<<<<<< HEAD
+import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
+=======
+>>>>>>> c4ec556a9deed407df94aa78654bdfce0437e289
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.index.Term;
+import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.BooleanClause;
+import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.BoostQuery;
+<<<<<<< HEAD
+import org.apache.lucene.search.MatchAllDocsQuery;
+=======
+>>>>>>> c4ec556a9deed407df94aa78654bdfce0437e289
+import org.apache.lucene.search.Query;
+import org.apache.lucene.search.RegexpQuery;
+import org.apache.lucene.search.TopDocs;
+
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.io.PrintStream;
+import java.sql.Date;
+
+
+//A Simple java class to impliment the search function and return results of a simple GUI
+
+
+public class mainGUI {
+	static //create a text feild to store the name of the paper in.
+
+	JTextField containsQueryText = new JTextField(10); // accepts upto 10 characters
+	static JTextField authorQueryText = new JTextField(10); // accepts upto 10 characters
+
+	
+	public static void main(String args[]) {
+
+        //Creating the Frame
+        JFrame frame = new JFrame("good enough ~Search Engine~");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(600, 600);
+        //center it
+        frame.setLocationRelativeTo(null);
+
+        //Creating the MenuBar and adding components
+        JMenuBar mb = new JMenuBar();
+        JMenu m1 = new JMenu("FILE");
+        JMenu m2 = new JMenu("Help");
+        mb.add(m1);
+        mb.add(m2);
+        JMenuItem m11 = new JMenuItem("Open");
+        JMenuItem m12 = new JMenuItem("Save all");
+        m1.add(m11);
+        m1.add(m12);
+        JMenuItem m21 = new JMenuItem("im stuck too");
+        m2.add(m21);
+
+        //Creating the panel at bottom and adding components
+        JPanel panel = new JPanel(); // the panel is not visible in output
+
+        JLabel authorLabel = new JLabel("Author");
+        JLabel containsLabel = new JLabel("Contains");
+
+        
+        JButton send = new JButton("Search");
+        JButton reset = new JButton("Reset");
+        JButton login = new JButton("Login");
+	JButton view = new JButton("View");
+
+        panel.add(authorLabel); // Components Added using Flow Layout
+        panel.add(authorQueryText);
+        panel.add(containsLabel); // Components Added using Flow Layout
+        panel.add(containsQueryText);
+
+        panel.add(send);
+        panel.add(reset);
+        panel.add(login);
+	panel.add(view);
+
+        // Text Area at the Center
+        JTextArea ta = new JTextArea();
+        PrintStream ps = new PrintStream(new CustomStream(ta));
+        System.setOut(ps);
+        System.setErr(ps);
+
+        //Adding Components to the frame.
+        frame.getContentPane().add(BorderLayout.SOUTH, panel);
+        frame.getContentPane().add(BorderLayout.NORTH, mb);
+        frame.getContentPane().add(BorderLayout.CENTER, ta);
+        frame.setVisible(true);
+
+        
+        //create and action for clicking the send button
+        send.addActionListener(new ActionListener() {
+        	@Override
+            public void actionPerformed(ActionEvent e) {
+
+        		String query = " ";
+<<<<<<< HEAD
+        		String authorQuery;
+        		String contentQuery;
+				
+				float authorBoost = 10.0f;
+				float contentBoost = 10.0f;
+				RegexpQuery regularExpAuth, regularExpCont;
+                
+				if (authorQueryText.getText().isBlank())
+				{
+					regularExpAuth = new RegexpQuery(new Term("author", "[a-z]*"));
+				}
+				else 
+				{
+					regularExpAuth = new RegexpQuery(new Term("author", authorQueryText.getText()));
+				}
+				
+				if (containsQueryText.getText().isBlank())
+				{
+					regularExpCont = new RegexpQuery(new Term("contents", "[a-z]*"));
+				}
+				else 
+				{
+					regularExpCont = new RegexpQuery(new Term("contents", containsQueryText.getText()));
+				}
+
+                try {
+=======
+        		String authorQuery = " ";
+				String contentQuery = " ";
+                
+                //try to add the author text
+                if (!authorQueryText.getText().isBlank()) {
+                	authorQuery = "author: \"" + authorQueryText.getText() + "\"";
+                } //try to add the contains text
+                if (!containsQueryText.getText().isBlank()) {
+                	if(!authorQueryText.getText().isBlank()) {
+                		//if author is also used
+                		contentQuery += "AND contents: \"" + containsQueryText.getText() + "\"";
+                	} else {
+                		//if author is not used
+                    	contentQuery = "contents: \"" + containsQueryText.getText() + "\"";
+                	}
+                	
+                }
+
+                try {
+                	
+>>>>>>> c4ec556a9deed407df94aa78654bdfce0437e289
+
+                	QueryParser qp = new QueryParser(LuceneConstants.CONTENTS,
+                	         new StandardAnalyzer());
+                	
+
+                	
+<<<<<<< HEAD
+                
+
+           
+                	Searcher S = new Searcher("C:\\\\Lucene\\\\Index");
+
+                	
+					Query fullQuery2 = new BooleanQuery.Builder().add(new BoostQuery(regularExpAuth , 1.0f), BooleanClause.Occur.MUST).add(new BoostQuery(regularExpCont, 1.0f), BooleanClause.Occur.MUST).build();
+=======
+                	RegexpQuery regularExp = new RegexpQuery(new Term("author", "[a-z]*"));
+
+                	Query authQuery = qp.parse(authorQuery);
+                	Query contQuery = qp.parse(contentQuery);
+                	Searcher S = new Searcher("C:\\\\Lucene\\\\Index");
+
+                	
+					Query fullQuery2 = new BooleanQuery.Builder().add(regularExp, BooleanClause.Occur.MUST).add(contQuery, BooleanClause.Occur.MUST).build();
+>>>>>>> c4ec556a9deed407df94aa78654bdfce0437e289
+                	TopDocs docs = (S.search(fullQuery2));
+
+					
+					
+					long i = docs.totalHits.value;
+					for (long x = 0; x < i; x++) {
+					Document doc5 = S.getDocument(docs.scoreDocs[(int) x]);
+					System.out.println("Search string: " + query);
+					System.out.println("Result: " + doc5);
+					}
+<<<<<<< HEAD
+=======
+                	
+>>>>>>> c4ec556a9deed407df94aa78654bdfce0437e289
+				} catch (Exception e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+            }
+        });
+        
+        
+        //create an action for clicking the reset button
+        reset.addActionListener(new ActionListener() {
+        	@Override
+        	public void actionPerformed(ActionEvent e) {
+        			try {
+        				ta.setText(null);
+
+        				authorQueryText.setText(null);
+        				containsQueryText.setText(null);
+
+        			} catch (Exception e1) {
+        				e1.printStackTrace();
+        			}
+        	}
+        });
+        
+        login.addActionListener(new ActionListener() {
+        	@Override
+        	public void actionPerformed(ActionEvent e) {
+<<<<<<< HEAD
+        		MySQLAccess connectOBJ = new MySQLAccess();
+        		try {
+					connectOBJ.readDataBase();
+				} catch (Exception e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+=======
+
+        		loginPage log = new loginPage();
+        		//MySQLAccess connectOBJ = new MySQLAccess();
+        		//connectOBJ.readDataBase();
+
+>>>>>>> c4ec556a9deed407df94aa78654bdfce0437e289
+        		
+
+
+
+        	}
+        });
+
+    }
+	
+}
+

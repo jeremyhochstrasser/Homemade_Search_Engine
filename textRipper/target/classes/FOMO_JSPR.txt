@@ -1,0 +1,731 @@
+Full Research Report
+Fear of missing out
+(FoMO): A generational
+phenomenon or an
+individual difference?
+Christopher T. Barry
+Megan Y. Wong
+Washington State University, USA
+Abstract
+Fear of missing out (FoMO) regarding activities within one’s social circle is a potential
+downside of the advent of social media and more rapid forms of communication. To
+examine potential generational or individual implications of FoMO, this study considered
+age cohort differences and self-perception correlates of FoMO. Participants were 419
+individuals from throughout the U.S. who were members of 14- to 17-year-old, 24- to
+27-year-old, 34- to 37-year-old, or 44- to 47-year-old cohorts. There were no cohort
+differences in overall FoMO, FoMO regarding close friends, or FoMO regarding family
+members. Across age cohorts, low self-esteem and loneliness were each associated with
+high levels of FoMO, particularly for individuals who were also engaged in relatively
+greater social media activity. Thus, the present findings indicate that FoMO concerning
+others’ activities may be particularly problematic for some individuals who are highly
+engaged with social media.
+Keywords
+Fear of missing out, self-compassion, social media engagement
+Social media applications allow users to convey their activities to others and view what
+others are doing in real time; consequently, these platforms raise a possibility of distress
+Corresponding author:
+Christopher T. Barry, Department of Psychology, Washington State University, PO Box 644820, Pullman, WA
+99164, USA.
+Email: chris.barry@wsu.edu
+Journal of Social and
+Personal Relationships
+1–15
+ª The Author(s) 2020
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/0265407520945394
+journals.sagepub.com/home/spr
+J S P R
+for some individuals. This distress may take the form of fear of missing out (FoMO) and
+may be a function of one’s degree of social media activity or other individual differences.
+FoMO is conceptualized as “the desire to stay continually connected with what others are
+doing” and feeling worried that others are having a good time without them (Przybylski
+et al., 2013, p. 1841). Thus, FoMO may uniquely capture the deleterious impact of social
+media use on certain individuals’ affect or self-perception, but it may also be a phe-
+nomenon that is particularly evident at specific developmental stages.
+With the advent of social media and other forms of rapid communication, the pos-
+sibility of experiencing FoMO appears to have increased. Further, FoMO is related to
+both frequency and maladaptive forms of smartphone use (Elhai et al., 2020). Con-
+comitantly, nearly 90% of young adults report being active users of at least one social
+media platform, with 85% reporting using six or more such applications (Villanti et al.,
+2017). Overall, more than 75% of U.S. adults under the age of 50 report using at least one
+social media application (Pew Research Center, 2019). Because FoMO is particularly
+tied to high engagement in social media (Oberst et al., 2017), and younger generations
+engage with social media quite frequently (Boyd & Ellison, 2007; Przybylski et al.,
+2013; Villanti et al., 2017), there may be cohort differences in FoMO. However, con-
+sidering FoMO as necessarily a function of development or social media engagement
+negates the potential role of individual differences in this form of distress, an issue that
+was directly addressed in the present study.
+First, concerning potential developmental differences, FoMO may be a by-product of
+relatedness needs that emerge during adolescence and continue into adulthood, with
+FoMO demonstrating a negative correlation with age in a sample of adults ages 22–65
+(Przybylski et al., 2013). Due to the ubiquitous presence of social media and develop-
+mental needs to connect with others, FoMO may be more typical of the experiences of
+present-day adolescents and young adults relative to older adults. Theoretically, it is also
+possible that the type of relationship that engenders FoMO may change over time such
+that missing out on activities of close friends may be more distressing at a younger age,
+whereas feeling left out of family activities may be more concerning for older adults, an
+issue investigated in the present study.
+Nevertheless, despite theoretical reasons why FoMO may be a developmental phe-
+nomenon and shift based on certain close relationships, previous research has not
+directly addressed whether it is more a function of age/generational differences or
+individual variability in self-perception. For example, in experience sampling metho-
+dology, FoMO was related to negative affect and fatigue (Milyavskaya et al., 2018).
+Moreover, online communication or engagement may have positive benefits in terms of
+greater, not less, feelings of connectedness to others. Still, FoMO may heighten efforts
+for some individuals to try to connect with others (Roberts & David, 2019). As described
+below, potential correlates of FoMO including loneliness, lower self-esteem, and lower
+self-compassion have clear relevance for psychological well-being. Therefore, further
+exploration of these constructs as correlates of FoMO is important. To expand on prior
+work in this area, the present study considered the relation between FoMO and these self-
+perception variables across age-groups and whether these relations might be exacerbated
+(i.e., moderated) by greater social media engagement during daily activities.
+2 Journal of Social and Personal Relationships XX(X)
+Of the self-perception variables of interest, loneliness is perhaps most theoretically
+close to FoMO (Barry et al., 2017; Pittman & Reich, 2016). Similar to proposed cohort
+differences in FoMO, a separate line of research is suggestive of increased loneliness in
+the most recent cohort of young adults (Pittman & Reich, 2016; Twenge et al., 2019), yet
+the role of online exposure and relationships with increasing or decreasing loneliness is
+complex (Coget et al., 2002). Loneliness tends to be moderately to highly correlated with
+self-reported FoMO, and individuals high in FoMO and loneliness tend to be more
+highly engaged with social media (Alt, 2015; Barry et al., 2017; Blackwell et al., 2017).
+Thus, loneliness and, by extension, FoMO may be particularly common in the current
+generation of adolescents and young adults, even considering developmental factors that
+might portend a decline in these attributes as one continues through adulthood and
+achieves a more stable sense of self.
+Aside from FoMO as a specific concern in social domains, it may also have impli-
+cations for broader self-appraisals such as self-esteem and more general life satisfaction.
+For example, FoMO was negatively correlated with self-esteem across a sample ranging
+from 13 to 77 years of age (Buglass et al., 2017) and with life satisfaction in adults ages
+22–65 (Przybylski et al., 2013). Thus, existing evidence suggests that FoMO corresponds
+to indicators of negative self-perception or subjective well-being, independent of age.
+It is important to note, however, that the relations of FoMO with loneliness, self-
+esteem, or life satisfaction could very well be bidirectional or could be heightened for
+individuals with higher social media engagement. Social media exposure is related to
+lower self-esteem when upward social comparisons are activated (Vogel et al., 2014).
+Among individuals who feel more social isolation or have relatively low self-appraisals,
+social media may elicit more upward social comparisons and feelings that others’ lives
+are more exciting or interesting. Thus, FoMO might be most pronounced as a function of
+higher social media engagement along with greater loneliness, lower self-esteem, or
+lower life satisfaction. The present study investigated the extent to which such inter-
+actions between negative self-perception and social media engagement contributed
+variance to FoMO but did not consider their temporal connections.
+Furthermore, because FoMO is connected to negative and/or insecure self-perception,
+it may be incompatible with self-compassion. According to Neff and Vonk (2009), self-
+compassion involves relatively accurate self-perceptions that are not susceptible to
+negative social events. Individuals with high levels of self-compassion tend to be less
+self-conscious and regard setbacks as opportunities for self-improvement (Neff & Vonk,
+2009). Self-compassion is negatively associated with symptoms of social anxiety dis-
+order and with fear of social evaluation (Werner et al., 2012), and FoMO is positively
+related to anxiety and depression in adolescents (Oberst et al., 2017). Therefore, pre-
+occupation with being left out of others’ activities would render oneself vulnerable to
+fluctuations in self-appraisal and increased social anxiety. Self-compassion, on the other
+hand, would enable individuals to move past such potentially threatening social events.
+More specifically, self-compassion involves the capacity to see oneself as connected
+with—rather than isolated from—others, to refrain from overidentifying with one’s
+negative emotions, and to make positive self-appraisals even in the face of negative
+outcomes (Neff, 2003a). It includes three positive dimensions (i.e., feeling a sense of
+common humanity with others, being patient with oneself after setbacks, and
+Barry and Wong 3
+mindfulness) as well as three dimensions inversely associated with the self-compassion
+construct (i.e., feeling isolated from others, viewing oneself harshly after setbacks, and
+being overly focused on negative emotions or the implications of negative events for
+oneself; Neff, 2003a). Each of the positive elements of self-compassion is suggestive of
+limited distress in being left out, an issue that was investigated in the present study, with
+the expectation that FoMO would correspond to lower overall self-compassion and,
+relatedly, would be associated with the negative dimensions of self-compassion.
+Lastly, from a health standpoint, FoMO could also have implications for sleep dis-
+turbance. The vast majority of adolescents have access to electronic devices in their
+bedrooms (Cain & Gradisar, 2010), and greater use of electronic devices before bedtime,
+including social media use specifically, is associated with sleep difficulties (Cain &
+Gradisar, 2010; Woods & Scott, 2016). Further, young adults may seek out media to
+cope with difficulties sleeping, perhaps exacerbating the problem (Dijk, 2014). Specific
+to the aims of the present study, young adults and adolescents appear to demonstrate
+sleep disturbance as a function of FoMO such that FoMO may influence late night social
+media use and cognitive arousal (Milyavskaya et al., 2018; Scott & Woods, 2018),
+making it more difficult to achieve consistent, adequate sleep. Continued poor sleep
+could exacerbate FoMO, and to the extent that adolescents are concerned with missing
+out on social activities, they may still monitor social media more regularly, including at
+night in lieu of regular sleep. This process could further perpetuate FoMO itself. No prior
+work has investigated this relation beyond adolescence and early adulthood.
+Hypotheses
+It was hypothesized that overall FoMO would be relatively lower in older age-groups
+(Hypothesis 1). FoMO regarding close friends was expected to be higher than FoMO
+regarding family members in participants in their teens and 20s, whereas the converse
+was expected for participants in their 30s and 40s (Hypothesis 2). In addition, FoMO was
+expected to be correlated with lower self-esteem, lower self-compassion, higher lone-
+liness, lower life satisfaction, and greater self-reported sleep difficulties (Hypothesis 3).
+FoMO was also expected to be associated with higher social media engagement
+(Hypothesis 4). Lastly, the relations stated in Hypothesis 3 were expected to be mod-
+erated by social media use during daily activities, such that, for example, the relation
+between loneliness and FoMO was expected to be highest among individuals (inde-
+pendent of cohort) whose social media use occurred more frequently in the midst of daily
+activities (e.g., during meals, just before bedtime; Hypothesis 5).
+Method
+Participants
+Participants were 419 individuals (98 males, 318 females, 3 nonspecified) from across
+the U.S. Recruitment was targeted at obtaining approximately an equal number of
+participants across age cohorts, with 105 individuals (49 males, 54 females) between the
+ages of 14 and 17 (mean age¼ 15.57, SD¼ 1.19), 105 individuals (12 males, 90 females,
+2 other) between the ages of 24 and 27 (mean age ¼ 25.56, SD ¼ 1.08), 105 individuals
+4 Journal of Social and Personal Relationships XX(X)
+(20 males, 84 females, 1 other) between the ages of 34 and 37 (mean age ¼ 35.44,
+SD ¼ 1.13), and 104 individuals (17 males, 87 females) between the ages of 44 and 47
+(mean age ¼ 45.51, SD ¼ 1.20) completing the study. Most participants (72.5%) self-
+reported that they were White/Caucasian, with 15.3% identifying as Black/African
+American, 4.1% multiracial, 3.3% Hispanic/Latinx, 2.4% Asian, and 2.3% as Other.
+Measures
+Fear of missing out survey (FoMOS). The FoMOS is a 10-item measure that assesses the
+extent to which respondents are concerned with missing out on activities in their social
+circle on a 5-point response scale from not at all true of me to extremely true of me
+(Przybylski et al., 2013). For the present study, participants completed three versions of
+the FoMOS: the standard FoMOS for overall FoMO, as well as versions with items
+reworded to focus on relationships with “close friends” and with items reworded
+emphasizing “family” relationships (e.g., “I get worried when I find out my friends/close
+friends/family are having fun without me”). Nine of the 10 items from the original
+FoMOS were used. One item (i.e., “I fear my friends have more rewarding experiences
+than me”) was excluded because of its overlap with another item (i.e., “I fear others have
+more rewarding experiences than me”), particularly when altering the wording to reflect
+close friends. In the present sample, internal consistency coefficients for these three
+versions were a ¼ .88 for the standard version, a ¼ .90 for FoMOS scores reflecting
+family members, and a ¼ .91 for FoMOS scores reflecting close friends.
+UCLA Loneliness Scale-3 (UCLA-3). Loneliness (e.g., “How often do you feel alone?”) was
+assessed via the UCLA-3, a 20-item self-report inventory (Russell, 1996). Responses
+range from Never to Often on a 4-point scale. In the present sample, the internal con-
+sistency was a ¼ .95.
+Rosenberg Self-Esteem Scale (RSES). The RSES is a widely used 10-item measure of global
+self-esteem. Items (e.g., “I feel I do not have much to be proud of.”) are rated on a 4-point
+scale from strongly disagree to strongly agree (Rosenberg, 1965). Internal consistency
+was a ¼ .83.
+Satisfaction With Life Scale (SWLS). The SWLS measures overall life satisfaction with 5
+items (e.g., “I am satisfied with life”) on a 1 (strongly disagree) to 7 (strongly agree)
+scale (Diener et al., 1985). The internal consistency of SWLS scores in the present
+sample was a ¼ .92.
+Self-compassion scale (SCS). The SCS consists of 36 items rated on a 5-point scale from
+almost never to almost always (Neff, 2003b). Some items assess low self-compassion (e.g.,
+“I’m disapproving and judgmental about my own flaws and inadequacies”) and others
+(e.g., “When something upsets me, I try to keep my emotions in balance”) that reflect high
+self-compassion. Three subscales (i.e., Self-Judgment, Overidentification, Isolation) cap-
+ture low self-compassion, and three subscales (i.e., Self-Kindness, Mindfulness, Common
+Humanity) are oriented toward higher self-compassion. To calculate an overall self-
+Barry and Wong 5
+compassion score, the former three subscales are inversely scored and then summed with
+scores from the latter three subscales. Internal consistency for overall SCS scores was a ¼
+.92. For the subscales, internal consistency ranged from a ¼ .76 to a ¼ .88.
+Sleep condition indicator (SCI). Sleep quality was measured by the 8-item SCI (e.g.,
+“Thinking about a typical night in the past month, how long does it take you to fall
+asleep? “How would you rate your sleep quality?”), with response options on a 5-point
+scale for each item (Espie et al., 2014). The items on the SCI are meant to assess different
+indicators of insomnia; thus, items are scored, so that higher scores indicate greater sleep
+disturbance. The internal consistency of SCI scores was a ¼ .91.
+Social media engagement. Social media engagement was assessed by items asking parti-
+cipants how frequently they check social media on a 7-point response scale from never to
+more than 10 times/day and the number of social media accounts they have on a 5-point
+scale from 0 to more than 7. Participants were given a list of popular social media sites
+(e.g., Facebook, Twitter, Instagram, Snapchat, etc.) and asked to indicate which that they
+use. This item provided context so that participants could ascertain what was meant by
+“social media” in this assessment. In addition, participants indicated whether they check
+social media during certain activities (e.g., during meals, in the 15 min before going to
+sleep, when out with friends) on 5 items, which were combined to form a composite of
+social media use during daily activities. This composite score demonstrated good
+internal consistency, a ¼ .86.
+Procedure
+This study was approved by the institutional review board at the authors’ university. Par-
+ticipants were recruited through survey panels based on their living in the U.S. and meeting
+the age requirements for this study. Prospective participants were invited to complete a
+survey-based study on “factors that affect people’s perception of their own social lives
+compared to others.” For the 14- to 17-year-old cohort, parents were contacted and asked to
+provide consent for their child to be contacted regarding participation. Minors provided
+assent, and adult participants provided informed consent, prior to completing the measures
+online on Qualtrics, a secure web-based survey platform. Recruitment was discontinued as
+soon as possible after 100 completed responses were submitted within each age cohort.
+Results
+Cohort differences and correlational analyses
+Descriptive statistics are presented in Table 1. The mean item rating of 2.13 on the
+FoMOS across the entire sample was consistent with the range of mean item ratings (i.e.,
+1.81–2.56) reported by Przybylski et al. (2013) from their large samples of adults ages
+18–65. A one-way analysis of variance was conducted to compare the four age cohorts
+on the different areas of FoMO (i.e., overall, with family members, with close friends).
+These analyses demonstrated that there were no differences between any age cohorts
+6 Journal of Social and Personal Relationships XX(X)
+in overall FoMO, F(3, 415) ¼ 1.91, p ¼ .13; FoMO regarding family members,
+F(3, 415) ¼ 1.94, p ¼ .13; or FoMO regarding close friends, F(3, 414) ¼ 1.62, p ¼ .18
+(see Table 1) in contrast to Hypotheses 1 and 2. Of note, social media use during daily
+activities differed by cohort, F(3, 414) ¼ 10.24, p < .001, with the second cohort (ages
+24–27) reporting significantly more such use than individuals from the other three
+cohorts. The youngest cohort reported significantly higher life satisfaction, lower
+loneliness, and less sleep disturbance than the other three cohorts on average. There were
+no differences between males and females on FoMO.
+Table 2 presents the correlations among the main individual difference variables
+measured in this study. Overall FoMO, FoMO with family members, and FoMO with
+close friends were all significantly interrelated (i.e., r ¼ .69–.87, p < .001), indicating
+that participants did not differentiate between feelings of FoMO across relationship
+types. As presented in Table 2, self-perception variables, with the exception of life
+satisfaction, were associated with FoMO in the expected directions. Specifically, indi-
+viduals who reported greater overall FoMO, FoMO with family members, and FoMO
+Table 1. Descriptive statistics across age cohorts.
+Age cohort
+Variable 14–17 24–27 34–37 44–47
+FoMO M (SD)
+Range
+22.06 (7.95)
+9–45
+22.34 (8.43)
+9–45
+20.10 (7.84)
+9–45
+20.72 (7.53)
+9–45
+FoMO close friends M (SD)
+Range
+22.01 (7.85)
+9–45
+21.67 (9.10)
+9–45
+20.06 (8.76)
+9–45
+19.98 (8.29)
+9–45
+FoMO family M (SD)
+Range
+22.30 (7.85)
+9–45
+23.76 (8.14)
+9–45
+21.00 (9.25)
+9–45
+21.88 (8.62)
+9–45
+Loneliness M (SD)
+Range
+39.32 (13.14)a
+20–80
+50.37 (11.46)b
+22–79
+49.17 (12.85)b
+22–78
+46.56 (14.14)b
+21–75
+Self-esteem M (SD)
+Range
+21.04 (5.83)b
+2–30
+17.45 (6.06)a
+4–30
+16.93 (7.30)a
+1–30
+18.85 (6.72)a,b
+0–30
+Self-compassion M (SD)
+Range
+2.00 (0.62)b
+0.45–3.39
+1.77 (0.49)a
+0.48–3.42
+1.76 (0.62)a
+0.45–3.42
+1.87 (0.60)a,b
+0.42–3.32
+Life satisfaction M (SD)
+Range
+23.60 (7.11)b
+5–35
+20.54 (7.48)a
+5–35
+19.80 (8.77)a
+5–35
+20.35 (8.01)a
+5–35
+Sleep disturbance M (SD)
+Range
+16.74 (7.88)a
+8–39
+23.52 (8.01)b
+8–40
+22.79 (8.37)b
+8–40
+21.58 (8.99)b
+8–40
+# of social media
+accounts
+M (SD)
+Range
+2.41 (0.69)b
+1–5
+2.42 (0.79)b
+1–5
+2.32 (0.70)a,b
+1–5
+2.18 (0.59)a
+1–4
+Frequency of checking
+social media
+M (SD)
+Range
+4.94 (1.57)
+1–7
+5.07 (1.80)
+1–7
+4.78 (1.86)
+1–7
+4.69 (1.59)
+1–7
+Social media use during
+daily activities
+M (SD)
+Range
+10.89 (3.66)b
+5–19
+12.20 (3.68)c
+5–20
+10.34 (3.80)a,b
+5–20
+9.43 (3.66)a
+5–20
+Note. Means with different superscripts are different at p < .05. # of social media accounts is based on the
+following scale: 1¼ none; 2¼ 1–3; 3¼ 4–5; 4¼ 6–7; 5¼ >7. Frequency of checking social media: 1¼ <1 time/
+week; 2¼ once per week; 3¼ 2–5 times a week; 4¼ once per day; 5¼ 2–5 times/day; 6¼ 5–10 times/day; 7¼ >10
+times/day. FoMO ¼ fear of missing out.
+Barry and Wong 7
+with close friends also reported greater feelings of loneliness and lower levels of self-
+esteem and self-compassion. In addition, individuals who experienced FoMO reported
+more sleep disturbance. Generally, the magnitudes of these relations were small to
+moderate and in support of Hypothesis 3.
+The relations of FoMO with indicators of social media engagement are presented in
+Table 3. In support of Hypothesis 4, all social media engagement variables were sig-
+nificantly related to FoMO, including FoMO regarding close friends and family mem-
+bers. Table 4 presents the correlations between dimensions of self-compassion and
+FoMO. The negative aspects of self-compassion (i.e., Overidentification, Isolation, Self-
+Judgment) were each moderately positively related to FoMO (see Table 4), whereas the
+correlations involving the positive dimensions of self-compassion were nonsignificant.
+Regression analyses
+To test Hypothesis 5, moderated multiple regression analyses were conducted through
+the PROCESS macro in SPSS (Hayes, 2013). Specifically, four models were examined
+to predict overall FoMO with the four predictors (i.e., self-esteem, loneliness, self-
+compassion, sleep disturbance) that demonstrated a bivariate relation with FoMO (see
+Table 2) and social media use during daily activities as the moderator. Significant
+Table 2. Correlates of FoMO across age cohorts.
+1. 2. 3. 4. 5. 6. 7. 8.
+1. Overall FoMO —
+2. FoMO with close
+friends
+.87*** —
+3. FoMO with family
+members
+.69*** .74*** —
+4. Loneliness .26*** .23*** .18*** —
+5. Self-esteem .27*** .23*** .16** .74*** —
+6. Satisfaction with life .08 .03 .01 .60*** .65*** —
+7. Sleep disturbance .21*** .22*** .19*** .56*** .48*** .43*** —
+8. Self-compassion .22*** .19*** .11* .66*** .66*** .57*** .45*** —
+Note. FoMO ¼ fear of missing out.
+*p < .05; **p < .01; ***p < .001.
+Table 3. Correlations between FoMO and social media engagement across cohorts.
+Overall FoMO
+FoMO with
+close friends
+FoMO with
+family members
+Number of social media accounts .34*** .33*** .27***
+Frequency of checking social media .15** .15** .13**
+Social media use during daily activities .49*** .45*** .34***
+Note. FoMO ¼ fear of missing out.
+**p < .01; ***p < .001.
+8 Journal of Social and Personal Relationships XX(X)
+interaction effects were evident for Self-Esteem  Social Media Use During Daily
+Activities, b ¼ .03, SE ¼ .01, p ¼ .02, and for Loneliness  Social Media Use During
+Daily Activities, b ¼ .02, SE ¼ .01, p ¼ .01. Post hoc probing of these interactions
+(Hayes, 2013) demonstrated that FoMO was highest for individuals with low self-esteem
+who also engaged in social media use during more daily activities (see Figure 1). A
+similar pattern was evident for loneliness in that higher loneliness along with more social
+media use during daily activities was related to relatively high FoMO (see Figure 2). The
+pattern of these interactions supported Hypothesis 5 but also reflect the separate main
+effects of social media activity, self-esteem, and loneliness in predicting FoMO.
+Post hoc analyses
+Alternative moderation models were also considered with social media use during daily
+activities as the criterion variable. Although the theoretical focus of the present study
+Table 4. Correlations between FoMO and self-compassion dimensions across age cohorts.
+Overall FoMO FoMO with close friends FoMO with family members
+Self-judgment .35*** .29*** .22***
+Overidentification .38*** .33*** .26***
+Isolation .41*** .37*** .30***
+Self-kindness .05 .07 .10
+Mindfulness .03 .05 .02
+Common humanity .01 .00 .08
+Note. FoMO ¼ fear of missing out.
+***p < .001.
+0
+5
+10
+15
+20
+25
+30
+Self-Esteem
+Low Social Media
+Activity
+High Social Media
+Activity
+Figure 1. The interaction between self-esteem and social media use during daily activities to
+predict variance in FoMO. Low social media activity: b ¼.15, SE¼ .07, p ¼ .02; high social media
+activity: b ¼ .37, SE ¼ .07, p < .001. FoMO ¼ fear of missing out.
+Barry and Wong 9
+was on the factors that might predict variance in FoMO, it is possible that FoMO and
+related individual difference variables interact to predict social media use. Again, four
+regression models were tested with FoMO as the moderator and self-esteem, loneliness,
+self-compassion, and sleep disturbance as predictors in separate models. Those models
+yielded no significant interaction effects.
+In addition, to consider whether the main relations described above and depicted in
+Table 2 differed by cohort, moderated multiple regression analyses were conducted with
+cohort as the moderator and self-perception variables or social media use in daily
+activities as the predictor in separate models to predict variance in overall FoMO. That
+is, six regression models (predictors: self-esteem, loneliness, self-compassion, life
+satisfaction, sleep difficulties, social media use in daily activities) were analyzed. None
+of these moderations were significant.
+Correlations within each cohort were analyzed to further probe for cohort-specific
+patterns. Only slight differences were evident from the results reported in Table 2 for the
+entire sample. In the youngest cohort, overall FoMO was significantly negatively cor-
+related with life satisfaction, r ¼ .24, p ¼ .02. FoMO with family members was
+unrelated to self-esteem, life satisfaction, or self-compassion. In the 24- to 27-year-old
+cohort, self-compassion was not significantly correlated with FoMO. A similar pattern
+was evident for the 34- to 37-year-old participants. Correlations within the 44- to 47-
+year-old cohort tended to follow the pattern of the entire sample in terms of magnitude
+(see Table 2).
+Finally, to potentially shed further light on the relation between FoMO and sleep
+problems, we conducted a post hoc mediational analysis, whereby social media use in the
+15 min before bedtime (i.e., a single item from the measure of social media use during
+daily activities) was considered as a potential mechanism through which the relation
+between FoMO and self-reported sleep problems occurred. The indirect effect of this
+model was significant, b ¼ .043, SE ¼ .022, CI: .004, .093, suggesting that the
+0
+5
+10
+15
+20
+25
+30
+Loneliness
+Low Social Media
+Activity
+High Social Media
+Activity
+Figure 2. The interaction between loneliness and social media use during daily activities to predict
+variance in FoMO. Low social media activity: b ¼ .25, SE ¼ .06, p < .001; high social media activity:
+b ¼ 43, SE ¼ .04, p < .001. FoMO ¼ fear of missing out.
+10 Journal of Social and Personal Relationships XX(X)
+connection between FoMO and reported sleep disturbance was at least partially mediated
+through the use of social media just before bedtime.
+Discussion
+As social media have been an almost ubiquitous part of daily life for adolescents and
+young adults, FoMO also stands to be a common source of distress for some individuals.
+Based on the present findings, FoMO does not appear to be endemic to a particular age-
+group. Instead, FoMO from adolescence to middle adulthood can be better understood as
+a correlate of other aspects of self-perception. More specifically, across age cohorts,
+having low self-esteem and low self-compassion as well as high levels of loneliness were
+each related to FoMO. Thus, FoMO may be more likely among individuals who do not
+think positively of themselves and/or feel socially isolated, independent of age, or
+developmental stage. Of course, the temporal sequence of these relations could be the
+inverse such that individuals with high levels of FoMO subsequently experience more
+global distress, such as greater loneliness, as well as lower self-esteem, self-compassion,
+and life satisfaction. Further, limiting social media use could subsequently lower the risk
+of FoMO and other aspects of self-perception assessed in this study (Hunt et al., 2018).
+Another implication raised of our findings is that fostering self-compassion (e.g.,
+viewing social or personal setbacks as an opportunity for growth, increasing acceptance
+of one’s experiences) may be useful for reducing preoccupation with the experiences of
+others (e.g., FoMO), which may be exacerbated through social media. The cohort
+analyses in the present study do not suggest that self-compassion tends to increase with
+age. Thus, more specific individually based efforts at enhancing self-compassion (Neff
+& Germer, 2013) and/or reducing related social-cognitive tendencies (e.g., upward social
+comparisons; personal fable; e.g., Bluth & Blanton, 2015; Deri et al., 2017) may prove
+beneficial. Emerging research points to upward social comparisons as a significant form
+of stress for individuals engaged with social media. Specifically, individuals who view
+others’ posts as indicative of a better or more idealistic life may demonstrate decreased
+self-esteem (Vogel et al., 2014) or heightened body image concerns (e.g., Choukas-
+Bradley et al., 2019). Therefore, promoting alternative approaches to social media
+engagement that deemphasize social comparisons may be warranted (Yang, 2016). In
+addition, curtailing social media activity in favor of face-to-face interactions may prove
+beneficial for individuals who are prone to feelings of loneliness or FoMO (Hunt et al.,
+2018; Twenge et al., 2019).
+Consistent with previous research (e.g., Elhai et al., 2018), FoMO was connected to
+social media activity across age cohorts. Thus, social media activity is not necessarily a
+catalyst for FoMO within one generation more than another, and the commonality of
+online experiences across age cohorts might help explain this lack of a generational
+differences (Boase & Wellman, 2006). Further, independent of cohort, the connections
+of loneliness and low self-esteem with FoMO were somewhat stronger for individuals
+who were more engaged with social media during daily activities. It may be that social
+media activity exacerbates feelings of FoMO in individuals with negative self-
+perceptions, but alternatively, FoMO could motivate use of social media and subse-
+quent feelings of isolation and negative self-esteem. The latter possibility was not
+Barry and Wong 11
+supported in follow-up regression models with social media activity as the criterion
+variable. However, the transactional relations among these variables could not be truly
+investigated in this study and are worthy of attention in longitudinal designs.
+In addition, the relation of FoMO with higher reported sleep disturbance points to a
+potential health consequence of this preoccupation with others’ experiences, one that
+echoes prior research (Scott & Woods, 2018). Post hoc analyses indicated that social
+media use just before bedtime might mediate this relation; however, caution is needed in
+interpreting this finding given the cross-sectional nature of the study design and the use
+of a single item to assess this aspect of social media use. Further research is needed on
+this issue, but intervention efforts such as those described above might also address the
+benefits of protective behavioral strategies (e.g., limiting electronic communication
+around bedtime) for reducing social stress connected to social media and for improving
+sleep. Interestingly, FoMO was not related to life satisfaction in the present sample
+which indicates that the potential effects of FoMO may be relatively narrow in scope.
+That is, FoMO appears to relate to lower self-esteem and a greater subjective sense of
+loneliness but may not have implications for overall life satisfaction. However, it is
+noteworthy that FoMO was negatively related to life satisfaction in the youngest cohort
+in the present study. It is conceivable that adolescents may indeed equate feeling left out
+of activities with their general sense of well-being. That is, FoMO may have larger
+implications for subjective well-being prior to adulthood.
+In summary, because FoMO may be more closely connected to individuals’ self-
+perception and approaches to appraising their relationships with others than to devel-
+opmental or generational effects, it begs the question of what approaches might mitigate
+its potential negative psychological, social, or physical consequences. FoMO was related
+to social media engagement, as conceptualized in this study, but FoMO may be more
+evident for individuals highly immersed in social comparison activities on social media.
+One approach to reducing FoMO or related distress might be to consider oneself in
+comparison to a range of other relational targets rather than only those who more readily
+come to mind because of a greater social media presence. Alternatively, as the present
+findings suggest, increased self-compassion in the form of less harsh self-appraisals and
+rumination about one’s emotions and feelings of isolation might translate to lower
+distress about others’ activities. In short, the manner in which one engages with and
+interprets social cues, including via social media, likely plays a large role in the expe-
+rience of FoMO and other forms of distress in response to those cues. The relevance of
+these interpretations for intervention efforts should be a target of future research.
+There are several limitations that must be considered in interpreting the present
+findings. First, the relatively small sample size that consisted of mostly females and
+White/Caucasian individuals may diminish the generalizability of the results to the
+broader population. Thus, efforts should be made to determine whether the present
+findings are replicable in more diverse and gender-balanced samples. Furthermore, the
+reliance on self-report surveys may have inflated some relations among self-perception
+variables. The cross-sectional methodology also prevents any conclusions regarding the
+developmental relations among the variables of interest. For example, it is unclear
+whether individuals with FoMO gravitate more toward social media or whether viewing
+others’ activities on social media might spark subsequent feelings of FoMO.
+12 Journal of Social and Personal Relationships XX(X)
+Future research should consider additional factors involved in the development of
+FoMO, use of additional methodological approaches (e.g., longitudinal designs, other
+informants, experience sampling methodology), and potential avenues for intervention
+in addressing distress related to FoMO. Because the generalizability of the present
+findings is uncertain, investigating these issues across racial/ethnic groups is important.
+It may be that FoMO and its connection to negative self-perception is relatively more
+problematic in groups for which social media are more easily accessible or more
+commonly used, consistent with other findings on FoMO and social media engagement
+(Alt, 2015; Oberst et al., 2017). Our preliminary results conclude that FoMO is rooted in
+other aspects of social and self-perception rather than differentially evident in adoles-
+cents and adults. That is, FoMO indicates more specific distress that is experienced via
+social media use independent of age. Thus, maladaptive uses of social media are an
+important target for further empirical inquiry and intervention efforts.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this
+article.
+ORCID iD
+Christopher T. Barry https://orcid.org/0000-0003-0803-1269
+Open research statement
+This research was not pre-registered. The data and materials used in the research are available
+upon request by emailing chris.barry@wsu.edu.
+References
+Alt, D. (2015). College students’ academic motivation, media engagement, and fear of missing
+out. Computers in Human Behavior, 49, 111–119.
+Barry, C. T., Sidoti, C. L., Briggs, S. M., Reiter, S. R., & Lindsey, R. A. (2017). Adolescent social
+media use and mental health from adolescent and parent perspectives. Journal of Adolescence,
+61, 1–11. https://doi.org/10.1016/j.adolescence.2017.08.005
+Blackwell, D., Leaman, C., Tramposch, R., Osborne, C., & Liss, M. (2017). Extraversion, neuroti-
+cism, attachment style and fear of missing out as predictors of social media use and addiction.
+Personality and Individual Differences, 116, 69–72. https://doi.org/10.1016/j.paid.2017.04.039
+Bluth, K., & Blanton, P. W. (2015). The influence of self-compassion on emotional well-being
+among early and older adolescent males and females. Journal of Positive Psychology, 10,
+219–230. https://doi.org/10.1.1080/17439760.2014.936967
+Boase, J., & Wellman, B. (2006). Personal relationships: On and off the Internet. In A. L. Vange-
+listi & D. Perlman (Eds.), The Cambridge handbook of personal relationships (pp. 709–723).
+Cambridge University Press. https://doi.org/10.1017/CBO9780511606632.039
+Boyd, D. M., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship.
+Journal of Computer-Mediated Communication, 13, 210–230. https://doi.org/10.1111/j.1083-
+6101.2007.00393.x
+Barry and Wong 13
+Buglass, S. L., Binder, J. F., Betts, L. R., & Underwood, J. D. M. (2017). Motivators of online
+vulnerability: The impact of social network site use and FOMO. Computers in Human Beha-
+vior, 66, 248–255. http://dx.doi.org/10.1016/j.chb.2016.09.055
+Cain, N., & Gradisar, M. (2010). Electronic media use and sleep in school-aged children and adoles-
+cents: A review. Sleep Medicine, 11, 735–742. http://dx.doi.org/10.1016/j.sleep.2010.02.006
+Choukas-Bradley, S., Nesi, J., Widman, L., & Higgins, M. K. (2019). Camera-ready: Young
+women’s appearance-related social media consciousness. Psychology of Popular Media Cul-
+ture, 8, 473–481. https://doi.org/10.1037/ppm0000196
+Coget, J., Yamauchi, Y., & Suman, M. (2002). The Internet, social networks, and loneliness. IT &
+Society, 1, 180–201.
+Deri, S., Davidai, S., & Gilovich, T. (2017). Home alone: Why people believe others’ social lives
+are richer than their own. Journal of Personality and Social Psychology, 113, 858–877. https://
+doi.org/10.1037/pspa0000105
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale.
+Journal of Personality Assessment, 49, 71–75. https://doi.org/10.1207/s15327752jpa4901_13
+Dijk, D. (2014). Not so fast: Sleep and media use. Journal of Sleep Research, 23, 363. https://doi.
+org/10.1111/jsr.12212
+Elhai, J. D., Levine, J. C., Alghraibeh, A. M., Alafnan, A. A., Aldraiweesh, A. A., & Hall, B. J.
+(2018). Fear of missing out: Testing relationships with negative affectivity, online social
+engagement, and problematic smartphone use. Computers in Human Behavior, 89, 289–298.
+https://doi.org/10.1016/j.chb.2018.08.020
+Elhai, J., Yang, H., Fang, J., Bai, X., & Hall, B. (2020). Depression and anxiety symptoms are
+related to problematic smartphone use severity in Chinese young adults: Fear of missing out as
+a mediator. Addictive Behaviors, 101. https://doi.org/10.1016/j.addbeh.2019.04.020
+Espie, C. A., Kyle, S. D., Hames, P., Gardani, M., Fleming, L., & Cape, J. (2014). The sleep
+condition indicator: A clinical screening tool to evaluate insomnia disorder. BMJ Open, 14,
+1–5. https://doi.org/10.1136/bmjopen-2013-004183
+Hayes, A. F. (2013). Introduction to mediation, moderation, and conditional process analysis: A
+regression-based approach. Guilford Press.
+Hunt, M. G., Marx, R., Lipson, C., & Young, J. (2018). No more FOMO: Limiting social media
+decreases loneliness and depression. Journal of Social and Clinical Psychology, 37, 751–768.
+https://doi.org/10.1521/jscp.2018.37.10.751
+Milyavskaya, M., Saffran, M., Hope, N., & Koestner, R. (2018). Fear of missing out: Prevalence,
+dynamics, and consequences of experiencing FOMO. Motivation and Emotion, 42, 725–737.
+https://doi.org/10.1007/s11031-018-9683-5
+Neff, K. D. (2003a). Self-compassion: An alternative conceptualization of a healthy attitude
+toward oneself. Self and Identity, 2, 85–101. https://doi.org/10.1080/15298860309032
+Neff, K. D. (2003b). The development and validation of a scale to measure self-compassion. Self
+and Identity, 2, 223–250. https://doi.org/10.1080/15298860309027
+Neff, K. D., & Germer, C. (2013). A pilot study and randomized controlled trial of the mindful
+self-compassion program. Journal of Clinical Psychology, 69, 28–44. https://doi.org/10.1002/
+jclp.21923
+Neff, K. D., & Vonk, R. (2009). Self-compassion versus global self-esteem: Two different ways of
+relating to oneself. Journal of Personality, 77, 23–50. https://doi.org/10.1111/j.1467-6494.
+2008.00537.x
+14 Journal of Social and Personal Relationships XX(X)
+Oberst, U., Wegmann, E., Stodt, B., Brand, M., & Chamarro, A. (2017). Negative consequences
+from heaving social networking in adolescents: The mediating role of fear of missing out.
+Journal of Adolescence, 55, 51–60. https://doi.org/10.1016/j.adolescence.2016.12.008
+Pew Research Center. (2019). Social media fact sheet. https://www.pewresearch.org/internet/fact-
+sheet/social-media/ April 26, 2020.
+Pittman, M., & Reich, B. (2016). Social media and loneliness: Why an Instagram picture may be
+worth more than a thousand Twitter words. Computers in Human Behavior, 62, 155–167.
+https://doi.org/10.1016/j.chb.2016.03.084
+Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional,
+and behavioral correlates of fear of missing out. Computers in Human Behavior, 29,
+1841–1848. https://doi.org/10.1016/j.chb.2013.02.014
+Roberts, J. A., & David, M. E. (2019). The social media party: Fear of missing out (FoMO), social
+media intensity, connection, and well-being. International Journal of Human-Computer Inter-
+action. https://doi.org/10.1080/10447318.2019.1646517
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton University Press.
+Russell, D. (1996). UCLA Loneliness Scale (Version 3): Reliability, validity, and factor structure.
+Journal of Personality Assessment, 66, 20–40. https://doi.org/10.1207/s15327752jpa6601_2
+Scott, H., & Woods, H. C. (2018). Fear of missing out and sleep: Cognitive behavioural factors in
+adolescents’ nighttime social media use. Journal of Adolescence, 68, 61–65. https://doi.org/10.
+1016/j.adolescence.2018.07.009
+Twenge, J. M., Spitzberg, B. H., & Campbell, W. K. (2019). Less in-person social interaction with
+peers among U.S. adolescents in the 21st century and links to loneliness. Journal of Social and
+Personal Relationships. https://doi.org/10.1177%2F0265407519836170
+Villanti, A. C., Johnson, A. L., Ilakkuvan, V., Jacobs, M. A., Graham, A. L., & Rath, J. M. (2017).
+Social media use and access to digital technology in US young adults in 2016. Journal of
+Medical Internet Research, 19. https://doi.org/10.2196/jmir.7303
+Vogel, E, Rose, J. P., Roberts, L., & Eckles, K. (2014). Social comparison, social media, and
+self-esteem. Psychology of Popular Media Culture, 3, 206–222. https://doi.org/10.1037/
+ppm0000047
+Werner, K., Jazaieri, H., Goldin, P., Ziv, M., Heimberg, R., & Gross, J. (2012). Self-compassion
+and social anxiety disorder. Anxiety, Stress, and Coping, 25, 543–558. https://doi.org/10.1080/
+10615806.2011.608842
+Woods, H. C., & Scott, H. (2016). #Sleepyteens: Social media use in adolescence is associated
+with poor sleep quality, anxiety, depression, and low self-esteem. Journal of Adolescence, 51,
+41–49. https://doi.org/10.1016/j.adolescence.2016.05.008
+Yang, C. (2016). Instagram use, loneliness, and social comparison orientation: Interact and browse
+on social media, but don’t compare. Cyberpsychology, Behavior, and Social Networking, 19,
+703–708. https://doi.org/10.1089/cyber.2016.0201
+Barry and Wong 15
+
